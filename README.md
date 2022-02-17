@@ -71,3 +71,8 @@ Here are some ideas to get you started:
 - [The Pain — When firebaseui localization meets TypeScript](https://ferrywlto.medium.com/the-pain-when-firebaseui-localization-meets-typescript-a85ffcf614fc?source=rss-f5ada568f082------2)
 - [Step-by-step guide on creating and publishing a Vue.js plugin.](https://ferrywlto.medium.com/step-by-step-guide-on-creating-and-publishing-a-vue-js-plugin-622c5748a631?source=rss-f5ada568f082------2)
 <!-- BLOG-POST-LIST:END -->
+
+### My recent StackOverflow activities
+<!-- STACKOVERFLOW:START -->
+
+<!-- STACKOVERFLOW:END -->
