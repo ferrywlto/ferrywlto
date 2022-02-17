@@ -74,5 +74,9 @@ Here are some ideas to get you started:
 
 ### My recent StackOverflow activities
 <!-- STACKOVERFLOW:START -->
-
+- [Answer by MasterWil for Newtonsoft. JSON reports an error. How can I solve it?](https://stackoverflow.com/questions/71140842/newtonsoft-json-reports-an-error-how-can-i-solve-it/71146196#71146196)
+- [Answer by MasterWil for How i can get how many times i have to rotate binary input to make it in original form in c#](https://stackoverflow.com/questions/71145332/how-i-can-get-how-many-times-i-have-to-rotate-binary-input-to-make-it-in-origina/71145939#71145939)
+- [Answer by MasterWil for Testing crud operations in SQLite, using the repository pattern](https://stackoverflow.com/questions/71135262/testing-crud-operations-in-sqlite-using-the-repository-pattern/71135865#71135865)
+- [Answer by MasterWil for How to get an output of an object stored in an array in C#](https://stackoverflow.com/questions/71126137/how-to-get-an-output-of-an-object-stored-in-an-array-in-c-sharp/71126668#71126668)
+- [Answer by MasterWil for i want to know how the static properties work in c# and i don&#39;t get the meaning of &#39;Instance._input;](https://stackoverflow.com/questions/71123783/i-want-to-know-how-the-static-properties-work-in-c-sharp-and-i-dont-get-the-mea/71124233#71124233)
 <!-- STACKOVERFLOW:END -->
