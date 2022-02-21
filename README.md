@@ -122,10 +122,10 @@ ActionScript was my favourite language before the death of Flash. Now I focus on
   </b></summary> 
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by MasterWil for Vue button toggling CSS using checkbox](https://stackoverflow.com/questions/71188664/vue-button-toggling-css-using-checkbox/71191350#71191350)
 - [Answer by MasterWil for Cant find route, 404 any suggestions - C# .netcore](https://stackoverflow.com/questions/71181548/cant-find-route-404-any-suggestions-c-sharp-netcore/71182266#71182266)
 - [Answer by MasterWil for Newtonsoft. JSON reports an error. How can I solve it?](https://stackoverflow.com/questions/71140842/newtonsoft-json-reports-an-error-how-can-i-solve-it/71146196#71146196)
 - [Answer by MasterWil for How i can get how many times i have to rotate binary input to make it in original form in c#](https://stackoverflow.com/questions/71145332/how-i-can-get-how-many-times-i-have-to-rotate-binary-input-to-make-it-in-origina/71145939#71145939)
 - [Answer by MasterWil for Testing crud operations in SQLite, using the repository pattern](https://stackoverflow.com/questions/71135262/testing-crud-operations-in-sqlite-using-the-repository-pattern/71135865#71135865)
-- [Answer by MasterWil for How to get an output of an object stored in an array in C#](https://stackoverflow.com/questions/71126137/how-to-get-an-output-of-an-object-stored-in-an-array-in-c-sharp/71126668#71126668)
 <!-- STACKOVERFLOW:END -->
 </details>
