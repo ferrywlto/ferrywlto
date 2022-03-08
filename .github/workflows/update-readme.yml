@@ -1,0 +1,32 @@
+name: Update README.md
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-sample:
+    runs-on: ubuntu-latest
+    name: Update README.md
+    steps:
+      - name: Checkout
+        id: checkout
+        uses: actions/checkout@v2
+
+      - name: Load blog posts and update README.md
+        id: update-readme
+        uses: ferrywlto/update-readme-action-csharp@v1.0.1
+        with:
+          medium-user-id: ${{ secrets.MEDIUM_USER_ID }}
+          stackoverflow-user-id: ${{ secrets.STACKOVERFLOW_USER_ID }}
+
+      - name: Commit README.md changes.
+        id: commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "generated"
+          git push
+        shell: bash
