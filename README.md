@@ -3,7 +3,7 @@
 ### Hello, World 👋 I am Ferry ⛴️ &nbsp;<img alt="views" src="https://visitor-badge.glitch.me/badge?page_id=ferrywlto.ferrywlto&left_color=DimGray&right_color=Green&left_text=Profile%20Views">
 ### 🔥 Keep coding until I cannot. 🔥
 <br/>
-<details> 
+<details>
 <summary><b>✨ About Me</b></summary>
 
 Owner of a software development company and three cats. 🐈 🐈 🐈
@@ -43,7 +43,7 @@ ActionScript was my favourite language before the death of Flash. Now I focus on
   <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ferrywlto&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&custom_title=My GitHub Stats&title_color=f8deb8&bg_color=111111&text_color=aaaaaa&icon_color=00d9a8" />
   <img height="180em" alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrywlto&layout=compact&langs_count=8&hide=HTML,CSS,ASP&hide_border=true&title_color=f8deb8&bg_color=111111&text_color=aaaaaa" />
   <img height="180em" alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=ferrywlto&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&background=111111&ring=f8deb8&fire=00d9a8&stroke=aaaaaa&border=f8deb8&currStreakNum=f8deb8&sideNums=f8deb8&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=00d9a8">
-  <img height="180em" alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ferrywlto&hide_border=true&title_color=f8deb8&bg_color=111111&text_color=aaaaaa" /> 
+  <img height="180em" alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ferrywlto&hide_border=true&title_color=f8deb8&bg_color=111111&text_color=aaaaaa" />
 </details>
 <br/>
 <details>
@@ -99,6 +99,34 @@ ActionScript was my favourite language before the death of Flash. Now I focus on
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ferrywlto/vuejs-aspnetcore-ssr?style=for-the-badge"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ferrywlto/vuejs-aspnetcore-ssr?style=for-the-badge"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/ferrywlto/update-readme-action-csharp"><b>Update README action using C#</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ferrywlto/update-readme-action-csharp?style=for-the-badge"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ferrywlto/update-readme-action-csharp?style=for-the-badge"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ferrywlto/update-readme-action-csharp?style=for-the-badge"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ferrywlto/update-readme-action-csharp?style=for-the-badge"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ferrywlto/EICS.Muddle"><b>Muddle</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ferrywlto/EICS.Muddle?style=for-the-badge"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ferrywlto/EICS.Muddle?style=for-the-badge"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ferrywlto/EICS.Muddle?style=for-the-badge"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ferrywlto/EICS.Muddle?style=for-the-badge"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ferrywlto/plugin-pipeline-demo"><b>Plugin Pipeline Demo in C#</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ferrywlto/plugin-pipeline-demo?style=for-the-badge"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ferrywlto/plugin-pipeline-demo?style=for-the-badge"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ferrywlto/plugin-pipeline-demo?style=for-the-badge"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ferrywlto/plugin-pipeline-demo?style=for-the-badge"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ferrywlto/ArchiCAD-Addon-Examples--VS2015-"><b>ArchiCAD Addon Examples</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ferrywlto/ArchiCAD-Addon-Examples--VS2015-?style=for-the-badge"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ferrywlto/ArchiCAD-Addon-Examples--VS2015-?style=for-the-badge"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ferrywlto/ArchiCAD-Addon-Examples--VS2015-?style=for-the-badge"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ferrywlto/ArchiCAD-Addon-Examples--VS2015-?style=for-the-badge"/></td>
+    </tr>
   </tbody>
 </table>
 </details>
@@ -119,7 +147,7 @@ ActionScript was my favourite language before the death of Flash. Now I focus on
   <summary><b>
     <img alt="StackOverflow" src="https://img.shields.io/badge/-%2300000000?logo=stackoverflow&style=flat" />
     Latest StackOverflow Activities
-  </b></summary> 
+  </b></summary>
 
 <!-- STACKOVERFLOW:START -->
 - [Answer by MasterWil for Newtonsoft. JSON reports an error. How can I solve it?](https://stackoverflow.com/questions/71140842/newtonsoft-json-reports-an-error-how-can-i-solve-it/71146196#71146196)
