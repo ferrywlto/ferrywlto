@@ -138,6 +138,7 @@ ActionScript was my favourite language before the death of Flash. Now I focus on
   </b></summary>
 
 <!-- MEDIUM:START -->
+ - [The missing piece in Blazor client-side authentication tutorial.](https://ferrywlto.medium.com/the-missing-piece-in-blazor-client-side-authentication-tutorial-a94b297b30a6?source=rss-f5ada568f082------2)
  - [Your automation buddies in C#](https://ferrywlto.medium.com/your-automation-buddies-in-c-cbfbe77c29cb?source=rss-f5ada568f082------2)
  - [Create a Custom GitHub Action with C#](https://ferrywlto.medium.com/create-a-custom-github-action-with-c-b056de359cb5?source=rss-f5ada568f082------2)
  - [Create your Wordle like game with Blazor and deploy to GitHub Pages](https://ferrywlto.medium.com/create-your-wordle-like-game-with-blazor-and-deploy-to-github-pages-d2129b71727f?source=rss-f5ada568f082------2)
