@@ -133,6 +133,15 @@ ActionScript was my favourite language before the death of Flash. Now I focus on
 <br/>
 <details>
   <summary><b>
+    🎙️ Latest Public Events 
+  </b></summary>
+    
+- [Adventures in .NET - Making a Wordle clone and more - .NET 121](https://adventuresindotnet.com/making-a-wordle-clone-and-more-net-121)
+    
+</details>
+<br/>
+<details>
+  <summary><b>
     <img alt="Medium" src="https://img.shields.io/badge/-%2300000000?logo=medium&style=flat" />
     Latest Medium Stories
   </b></summary>
