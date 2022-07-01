@@ -136,8 +136,9 @@ ActionScript was my favourite language before the death of Flash. Now I focus on
     🎙️ Latest Public Events 
   </b></summary>
     
+- [Kubernetes Best Practices for Enhanced Cluster Efficiency - Google Cloud & Cloudmile](https://mile.cloud/resources/event/Kubernetes%20Best%20Practices%20for%20Enhanced%20Cluster%20Efficiency_456?utm_source=Linkedin&utm_medium=220617&utm_campaign=FY22_HK_2022/06/30_K8S%20Webinar) [[Linkedin]](https://www.linkedin.com/events/kubernetesbestpracticesforenhan6943523713841516544/)
 - [Adventures in .NET - Making a Wordle clone and more - .NET 121](https://adventuresindotnet.com/making-a-wordle-clone-and-more-net-121)
-    
+
 </details>
 <br/>
 <details>
