@@ -165,16 +165,16 @@ ActionScript was my favourite language before the death of Flash. Now I focus on
   </b></summary>
 
 <!-- STACKOVERFLOW:START -->
+ - [Answer by MasterWil for .net core returns empty body json on Get request](https://stackoverflow.com/questions/72841828/net-core-returns-empty-body-json-on-get-request/72848469#72848469)
+ - [Answer by MasterWil for How to download the model as a JSON file?](https://stackoverflow.com/questions/72848245/how-to-download-the-model-as-a-json-file/72848299#72848299)
+ - [Answer by MasterWil for How to get an instance of an injected service without constructor injection in .NET Core?](https://stackoverflow.com/questions/72846081/how-to-get-an-instance-of-an-injected-service-without-constructor-injection-in/72846138#72846138)
+ - [Answer by MasterWil for Add reference to a single DLL file](https://stackoverflow.com/questions/72845699/add-reference-to-a-single-dll-file/72845748#72845748)
  - [Answer by MasterWil for How to retrieve the repository directory name I am in using C#?](https://stackoverflow.com/questions/71325540/how-to-retrieve-the-repository-directory-name-i-am-in-using-c/71325836#71325836)
  - [Answer by MasterWil for argument_name and an argument_value in a named argument?](https://stackoverflow.com/questions/71282633/argument-name-and-an-argument-value-in-a-named-argument/71283237#71283237)
  - [Answer by MasterWil for Vue button toggling CSS using checkbox](https://stackoverflow.com/questions/71188664/vue-button-toggling-css-using-checkbox/71191350#71191350)
  - [Answer by MasterWil for Cant find route, 404 any suggestions - C# .netcore](https://stackoverflow.com/questions/71181548/cant-find-route-404-any-suggestions-c-sharp-netcore/71182266#71182266)
  - [Answer by MasterWil for Newtonsoft. JSON reports an error. How can I solve it?](https://stackoverflow.com/questions/71140842/newtonsoft-json-reports-an-error-how-can-i-solve-it/71146196#71146196)
  - [Answer by MasterWil for How i can get how many times i have to rotate binary input to make it in original form in c#](https://stackoverflow.com/questions/71145332/how-i-can-get-how-many-times-i-have-to-rotate-binary-input-to-make-it-in-origina/71145939#71145939)
- - [Answer by MasterWil for Testing crud operations in SQLite, using the repository pattern](https://stackoverflow.com/questions/71135262/testing-crud-operations-in-sqlite-using-the-repository-pattern/71135865#71135865)
- - [Answer by MasterWil for How to get an output of an object stored in an array in C#](https://stackoverflow.com/questions/71126137/how-to-get-an-output-of-an-object-stored-in-an-array-in-c-sharp/71126668#71126668)
- - [Answer by MasterWil for i want to know how the static properties work in c# and i don&#39;t get the meaning of &#39;Instance._input;](https://stackoverflow.com/questions/71123783/i-want-to-know-how-the-static-properties-work-in-c-sharp-and-i-dont-get-the-mea/71124233#71124233)
- - [Answer by MasterWil for How to bind on document events with blazor](https://stackoverflow.com/questions/55354983/how-to-bind-on-document-events-with-blazor/71069679#71069679)
 
 <!-- STACKOVERFLOW:END -->
 </details>
