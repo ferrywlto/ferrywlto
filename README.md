@@ -6,7 +6,7 @@
 <details>
 <summary><b>✨ About Me</b></summary>
 
-Staff Engineer of WATI.io 
+Staff Engineer of WATI.io (Clare.AI)
 
 Owner of a software development company VerdantSparks (currently inactive).
 
