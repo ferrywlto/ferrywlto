@@ -6,7 +6,11 @@
 <details>
 <summary><b>✨ About Me</b></summary>
 
-Owner of a software development company and three cats. 🐈 🐈 🐈
+Staff Engineer of WATI.io 
+
+Owner of a software development company VerdantSparks (currently inactive).
+
+Husband of my lovely wife and owner of three cats. 🐈 🐈 🐈
 
 Love rodents 🐀 🐿️ 🐹 and one of my 🐁 named Hello.
 
