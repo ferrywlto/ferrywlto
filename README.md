@@ -16,14 +16,15 @@ Love rodents 🐀 🐿️ 🐹 and one of my 🐁 named Hello.
 
 ActionScript was my favourite language before the death of Flash. Now I focus on C# and Vue.
 
-- 🌎 I'm currently living in Hong Kong. 🇭🇰
+- 🌎 I'm currently living in Milton Keynes, United Kingdom. 🇬🇧
 - 🔭 I’m currently working on `Everything In C#`.
 - 🌱 I’m currently learning software craftsmanship.
 - 💬 Ask me about C# and Vue on my [website](ferrywl.to):
 - ⚡ Fun fact:
-    - My name Ferry comes from the Chinese nickname called by my family members, which is simply the abbreviation of my Chinese name. It pronounces the same as Ferry in Chinese (渡輪).
+    - My name Ferry comes from the Chinese nickname called by my family members, which is simply the abbreviation of my Chinese name. It pronounces the same as Ferry in Cantonese (渡輪).
     - Although I have 3 cats. I love rodents more. Once I feed 20+ hamsters from rescue.
     - I lived in Taiwan 🇹🇼 for 2 years.
+    - Hong Kong 🇭🇰 is my home country.
 </details>
 <br/>
 <details>
