@@ -13,9 +13,9 @@ Current Software Engineer in [SHI International Corporation](https://www.shi.com
 
 Owner of a software development company [VerdantSparks](https://verdantsparks.io).
 
-Husband of my lovely wife and owner of three cats. 🐈 🐈 🐈
+Husband of my lovely wife and parent of three cats. 🐈 🐈 🐈
 
-Love rodents 🐀 🐿️ 🐹 and one of my 🐁 named Hello.
+Love rodents 🐀 🐿️ 🐹 and one of my 🐁 was named Hello.
 
 ActionScript was my favourite language before the death of Flash. Now I focus on C#.
 
@@ -58,34 +58,40 @@ ActionScript was my favourite language before the death of Flash. Now I focus on
 <details>
   <summary><b>🛠️ Languages & Tools</b></summary>
   <br/>
-  <img alt="medium" src="https://img.shields.io/badge/.NET-%23008000?logo=dotnet&style=flat&labelColor=111111" />
-  <img alt="medium" src="https://img.shields.io/badge/C%23-%23008000?logo=csharp&style=flat&labelColor=111111" />
-  <img alt="medium" src="https://img.shields.io/badge/Blazor-%23008000?logo=blazor&style=flat&labelColor=111111" />
-  <img alt="medium" src="https://img.shields.io/badge/Xamarin-%23008000?logo=xamarin&style=flat&labelColor=111111" />
-  <img alt="medium" src="https://img.shields.io/badge/Jupyter Notebook-%23008000?logo=Jupyter&style=flat&labelColor=111111" />
+  <img alt="medium" src="https://img.shields.io/badge/C%23-%23008000?&style=flat&labelColor=111111" />
+  <img alt="medium" src="https://img.shields.io/badge/JavaScript-%23008000?logo=javascript&style=flat&labelColor=111111" />
+  <img alt="medium" src="https://img.shields.io/badge/TypeScript-%23008000?logo=typescript&style=flat&labelColor=111111" />
   <img alt="medium" src="https://img.shields.io/badge/Python-%23008000?logo=Python&style=flat&labelColor=111111" />
   <img alt="medium" src="https://img.shields.io/badge/C++-%23008000?logo=cplusplus&style=flat&labelColor=111111" />
   <br/>
+  <img alt="medium" src="https://img.shields.io/badge/.NET-%23008000?logo=dotnet&style=flat&labelColor=111111" />
+  <img alt="medium" src="https://img.shields.io/badge/Blazor-%23008000?logo=blazor&style=flat&labelColor=111111" />
+  <img alt="medium" src="https://img.shields.io/badge/MAUI-%23008000?logo=xamarin&style=flat&labelColor=111111" />
+  <img alt="medium" src="https://img.shields.io/badge/Jupyter Notebook-%23008000?logo=Jupyter&style=flat&labelColor=111111" />
+  <br/>
+  <img alt="medium" src="https://img.shields.io/badge/Astro-%23008000?logo=astro&style=flat&labelColor=111111" />
+  <img alt="medium" src="https://img.shields.io/badge/Alpine.js-%23008000?logo=alpinedotjs&style=flat&labelColor=111111" />
   <img alt="medium" src="https://img.shields.io/badge/Vue.js-%23008000?logo=vuedotjs&style=flat&labelColor=111111" />
   <img alt="medium" src="https://img.shields.io/badge/Vuetify-%23008000?logo=vuetify&style=flat&labelColor=111111" />
-  <img alt="medium" src="https://img.shields.io/badge/Nuxt.js-%23008000?logo=nuxtdotjs&style=flat&labelColor=111111" />
-  <img alt="medium" src="https://img.shields.io/badge/JavaScript-%23008000?logo=javascript&style=flat&labelColor=111111" />
-  <img alt="medium" src="https://img.shields.io/badge/TypeScript-%23008000?logo=typescript&style=flat&labelColor=111111" />
-  <img alt="medium" src="https://img.shields.io/badge/NativeScript-%23008000?logo=nativescript&style=flat&labelColor=111111" />
   <br/>
   <img alt="medium" src="https://img.shields.io/badge/GCP-%23008000?logo=googlecloud&style=flat&labelColor=111111" />
   <img alt="medium" src="https://img.shields.io/badge/Azure-%23008000?logo=microsoftazure&style=flat&labelColor=111111" />
+  <img alt="medium" src="https://img.shields.io/badge/AWS-%23008000?logo=amazonwebservices&style=flat&labelColor=111111" />
+  <br/>
   <img alt="medium" src="https://img.shields.io/badge/Firebase-%23008000?logo=firebase&style=flat&labelColor=111111" />
   <img alt="medium" src="https://img.shields.io/badge/MongoDB-%23008000?logo=mongodb&style=flat&labelColor=111111" />
+  <img alt="medium" src="https://img.shields.io/badge/MySQL-%23008000?logo=mysql#4479A1&style=flat&labelColor=111111" />
   <img alt="medium" src="https://img.shields.io/badge/SQL Server-%23008000?logo=microsoftsqlserver&style=flat&labelColor=111111" />
   <img alt="medium" src="https://img.shields.io/badge/SQLite-%23008000?logo=sqlite&style=flat&labelColor=111111" />
   <br/>
   <img alt="medium" src="https://img.shields.io/badge/Docker-%23008000?logo=docker&style=flat&labelColor=111111" />
+  <img alt="medium" src="https://img.shields.io/badge/Kubernetes-%23008000?logo=kubernetes&style=flat&labelColor=111111" />
+  <img alt="medium" src="https://img.shields.io/badge/Jenkins-%23008000?logo=jenkins&style=flat&labelColor=111111" />
+  <br/>
   <img alt="medium" src="https://img.shields.io/badge/Slack-%23008000?logo=slack&style=flat&labelColor=111111" />
   <img alt="medium" src="https://img.shields.io/badge/VSCode-%23008000?logo=visualstudiocode&style=flat&labelColor=111111" />
   <img alt="medium" src="https://img.shields.io/badge/Rider-%23008000?logo=rider&style=flat&labelColor=111111" />
   <img alt="medium" src="https://img.shields.io/badge/GitHub-%23008000?logo=github&style=flat&labelColor=111111" />
-
 </details>
 <br/>
 <details>
