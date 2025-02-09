@@ -16,7 +16,7 @@ jobs:
 
       - name: Load blog posts and update README.md
         id: update-readme
-        uses: ferrywlto/update-readme-action-csharp@v1.0.1
+        uses: ferrywlto/update-readme-action-csharp@v1.0.2
         with:
           medium-user-id: ${{ secrets.MEDIUM_USER_ID }}
           stackoverflow-user-id: ${{ secrets.STACKOVERFLOW_USER_ID }}
