@@ -1,20 +1,23 @@
 <img alt="me" src="me.jpeg">
 
-### Hello, World 👋 I am Ferry ⛴️ &nbsp;<img alt="views" src="https://visitor-badge.glitch.me/badge?page_id=ferrywlto.ferrywlto&left_color=DimGray&right_color=Green&left_text=Profile%20Views">
+### Hello, World 👋 I am Ferry ⛴️
+
 ### 🔥 Keep coding until I cannot. 🔥
 <br/>
 <details>
 <summary><b>✨ About Me</b></summary>
 
-Staff Engineer of WATI.io (Clare.AI)
+ex-Senior Staff Engineer of [WATI.io (Clare.AI)](https://www.wati.io/). 
 
-Owner of a software development company VerdantSparks (currently inactive).
+Current Software Engineer in [SHI International Corporation](https://www.shi.com/).
+
+Owner of a software development company [VerdantSparks](https://verdantsparks.io).
 
 Husband of my lovely wife and owner of three cats. 🐈 🐈 🐈
 
 Love rodents 🐀 🐿️ 🐹 and one of my 🐁 named Hello.
 
-ActionScript was my favourite language before the death of Flash. Now I focus on C# and Vue.
+ActionScript was my favourite language before the death of Flash. Now I focus on C#.
 
 - 🌎 I'm currently living in Milton Keynes, United Kingdom. 🇬🇧
 - 🔭 I’m currently working on `Everything In C#`.
@@ -23,8 +26,9 @@ ActionScript was my favourite language before the death of Flash. Now I focus on
 - ⚡ Fun fact:
     - My name Ferry comes from the Chinese nickname called by my family members, which is simply the abbreviation of my Chinese name. It pronounces the same as Ferry in Cantonese (渡輪).
     - Although I have 3 cats. I love rodents more. Once I feed 20+ hamsters from rescue.
-    - I lived in Taiwan 🇹🇼 for 2 years.
-    - Hong Kong 🇭🇰 is my home country.
+    - 🇹🇼 I lived in Taiwan for 2 years.
+    - 🇬🇧 I'm almost living in the UK for 1 year.
+    - 🇭🇰 Hong Kong is my home country.
 </details>
 <br/>
 <details>
