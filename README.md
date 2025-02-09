@@ -153,6 +153,7 @@ ActionScript was my favourite language before the death of Flash. Now I focus on
   </b></summary>
 
 <!-- MEDIUM:START -->
+ - [Local DeepSeek-R1 with .NET](https://ferrywlto.medium.com/local-deepseek-r1-with-net-5e9cd8ab7780?source=rss-f5ada568f082------2)
  - [The missing piece in Blazor client-side authentication tutorial.](https://ferrywlto.medium.com/the-missing-piece-in-blazor-client-side-authentication-tutorial-a94b297b30a6?source=rss-f5ada568f082------2)
  - [Your automation buddies in C#](https://ferrywlto.medium.com/your-automation-buddies-in-c-cbfbe77c29cb?source=rss-f5ada568f082------2)
  - [Create a Custom GitHub Action with C#](https://ferrywlto.medium.com/create-a-custom-github-action-with-c-b056de359cb5?source=rss-f5ada568f082------2)
@@ -170,16 +171,16 @@ ActionScript was my favourite language before the death of Flash. Now I focus on
   </b></summary>
 
 <!-- STACKOVERFLOW:START -->
- - [Answer by MasterWil for .net core returns empty body json on Get request](https://stackoverflow.com/questions/72841828/net-core-returns-empty-body-json-on-get-request/72848469#72848469)
- - [Answer by MasterWil for How to download the model as a JSON file?](https://stackoverflow.com/questions/72848245/how-to-download-the-model-as-a-json-file/72848299#72848299)
- - [Answer by MasterWil for How to get an instance of an injected service without constructor injection in .NET Core?](https://stackoverflow.com/questions/72846081/how-to-get-an-instance-of-an-injected-service-without-constructor-injection-in/72846138#72846138)
- - [Answer by MasterWil for Add reference to a single DLL file](https://stackoverflow.com/questions/72845699/add-reference-to-a-single-dll-file/72845748#72845748)
- - [Answer by MasterWil for How to retrieve the repository directory name I am in using C#?](https://stackoverflow.com/questions/71325540/how-to-retrieve-the-repository-directory-name-i-am-in-using-c/71325836#71325836)
- - [Answer by MasterWil for argument_name and an argument_value in a named argument?](https://stackoverflow.com/questions/71282633/argument-name-and-an-argument-value-in-a-named-argument/71283237#71283237)
- - [Answer by MasterWil for Vue button toggling CSS using checkbox](https://stackoverflow.com/questions/71188664/vue-button-toggling-css-using-checkbox/71191350#71191350)
- - [Answer by MasterWil for Cant find route, 404 any suggestions - C# .netcore](https://stackoverflow.com/questions/71181548/cant-find-route-404-any-suggestions-c-sharp-netcore/71182266#71182266)
- - [Answer by MasterWil for Newtonsoft. JSON reports an error. How can I solve it?](https://stackoverflow.com/questions/71140842/newtonsoft-json-reports-an-error-how-can-i-solve-it/71146196#71146196)
- - [Answer by MasterWil for How i can get how many times i have to rotate binary input to make it in original form in c#](https://stackoverflow.com/questions/71145332/how-i-can-get-how-many-times-i-have-to-rotate-binary-input-to-make-it-in-origina/71145939#71145939)
+ - [Answer by Ferry To for Passing Parameter from AJAX call to .NET Controller as List&lt;&gt;](https://stackoverflow.com/questions/79419045/passing-parameter-from-ajax-call-to-net-controller-as-list/79419343#79419343)
+ - [Answer by Ferry To for How can I resolve the &quot;&#39;Docker.app&#39; will damage your computer&quot; warning on macOS?](https://stackoverflow.com/questions/79344101/how-can-i-resolve-the-docker-app-will-damage-your-computer-warning-on-macos/79401440#79401440)
+ - [Answer by Ferry To for I&#39;m using Selenium C# to test Google.com, but sendKeys doesn&#39;t work because the cookies popup appears every time, and even after clicking &#39;Accept All&#39;](https://stackoverflow.com/questions/79395358/im-using-selenium-c-sharp-to-test-google-com-but-sendkeys-doesnt-work-because/79395370#79395370)
+ - [Answer by Ferry To for How can I execute C# code using Roslyn from a string and use global variables from a Dictionary&lt;string, object&gt;?](https://stackoverflow.com/questions/79320261/how-can-i-execute-c-sharp-code-using-roslyn-from-a-string-and-use-global-variabl/79320282#79320282)
+ - [Answer by Ferry To for await InvokeAsync(StateHasChanged) does not change the database content unless page is reloded](https://stackoverflow.com/questions/79294474/await-invokeasyncstatehaschanged-does-not-change-the-database-content-unless-p/79294882#79294882)
+ - [Answer by Ferry To for What is expected output?](https://stackoverflow.com/questions/79279710/what-is-expected-output/79279726#79279726)
+ - [Answer by Ferry To for I am having trouble with hierarchy in objects. Particularly, an array in an object which is used in another object](https://stackoverflow.com/questions/79279607/i-am-having-trouble-with-hierarchy-in-objects-particularly-an-array-in-an-obje/79279616#79279616)
+ - [Answer by Ferry To for How to find the first duplicate number in an array in C#?](https://stackoverflow.com/questions/79235447/how-to-find-the-first-duplicate-number-in-an-array-in-c/79235454#79235454)
+ - [Answer by Ferry To for I want this to make an error message if the user isn&#39;t using the right format, but it just displays this](https://stackoverflow.com/questions/79173384/i-want-this-to-make-an-error-message-if-the-user-isnt-using-the-right-format-b/79173389#79173389)
+ - [Answer by Ferry To for Error with recursion I cannot figure out. JAVA](https://stackoverflow.com/questions/79171724/error-with-recursion-i-cannot-figure-out-java/79171748#79171748)
 
 <!-- STACKOVERFLOW:END -->
 </details>
