@@ -181,6 +181,7 @@ ActionScript was my favourite language before the death of Flash. Now I focus on
   </b></summary>
 
 <!-- STACKOVERFLOW:START -->
+ - [Answer by Ferry To for EF Core - Parameter of type Enum Array as String Array (string[]) instead of Int Array (int[]) in database](https://stackoverflow.com/questions/79339008/ef-core-parameter-of-type-enum-array-as-string-array-string-instead-of-int/79473800#79473800)
  - [Answer by Ferry To for PhotonVR.SetCosmetic argument not match](https://stackoverflow.com/questions/79440720/photonvr-setcosmetic-argument-not-match/79440722#79440722)
  - [Answer by Ferry To for Passing Parameter from AJAX call to .NET Controller as List&lt;&gt;](https://stackoverflow.com/questions/79419045/passing-parameter-from-ajax-call-to-net-controller-as-list/79419343#79419343)
  - [Answer by Ferry To for How can I resolve the &quot;&#39;Docker.app&#39; will damage your computer&quot; warning on macOS?](https://stackoverflow.com/questions/79344101/how-can-i-resolve-the-docker-app-will-damage-your-computer-warning-on-macos/79401440#79401440)
@@ -190,7 +191,6 @@ ActionScript was my favourite language before the death of Flash. Now I focus on
  - [Answer by Ferry To for What is expected output?](https://stackoverflow.com/questions/79279710/what-is-expected-output/79279726#79279726)
  - [Answer by Ferry To for I am having trouble with hierarchy in objects. Particularly, an array in an object which is used in another object](https://stackoverflow.com/questions/79279607/i-am-having-trouble-with-hierarchy-in-objects-particularly-an-array-in-an-obje/79279616#79279616)
  - [Answer by Ferry To for How to find the first duplicate number in an array in C#?](https://stackoverflow.com/questions/79235447/how-to-find-the-first-duplicate-number-in-an-array-in-c/79235454#79235454)
- - [Answer by Ferry To for I want this to make an error message if the user isn&#39;t using the right format, but it just displays this](https://stackoverflow.com/questions/79173384/i-want-this-to-make-an-error-message-if-the-user-isnt-using-the-right-format-b/79173389#79173389)
 
 <!-- STACKOVERFLOW:END -->
 </details>
